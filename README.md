@@ -1,0 +1,1 @@
+# Code-forShamir-s-secret-sharing-algorithm
